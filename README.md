@@ -11,4 +11,4 @@
 
 ## Here some projects
 - [x] Silver Tone[https://lalianza-silvertone-app-app-bv573b.streamlit.app/]
-= [ ] Comming soon
+- [ ] Comming soon

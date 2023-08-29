@@ -11,3 +11,4 @@
 
 ## Here some projects
 - [x] Silver Tone[https://lalianza-silvertone-app-app-bv573b.streamlit.app/]
+- [x] Kaggle notebooks [https://github.com/lalianza/Kaggle]

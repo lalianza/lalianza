@@ -12,3 +12,4 @@
 ## Here some projects
 - [x] Speech emotion detection [https://lalianza-silvertone-app-app-bv573b.streamlit.app/]
 - [x] Credit card fraud detection [https://github.com/lalianza/Kaggle/blob/main/credit-card-fraud-detection.ipynb]
+- [x] Fun pokemon blue hack based on other projects (pokemon blue disassemble) [https://github.com/lalianza/pokemon_red_blue_hack]
